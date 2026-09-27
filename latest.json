@@ -1,0 +1,18 @@
+{
+  "build": 388304,
+  "version": "0.1.0",
+  "date": "2026-09-27T15:45:06.821Z",
+  "notes": "Nouveau : rangs et XP ! Monte de Fer à Orichalque, et chaque exercice du rang F au rang S.",
+  "bundle": {
+    "url": "bundles/forge-388304.zip",
+    "checksum": "9016bde7d2a3af6ce9993071c295404265a60c2446fd949f734ad0fdcf986893",
+    "size": 2784646
+  },
+  "minNative": 387223,
+  "apk": {
+    "build": 387223,
+    "url": "Forge.apk",
+    "size": 8780394
+  },
+  "nativeFingerprint": "29c08be078bd1246"
+}
